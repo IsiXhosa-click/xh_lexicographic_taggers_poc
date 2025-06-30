@@ -12,7 +12,7 @@ Best model (ours) is bolded:
 
 |Model                            |Accuracy (including noun classes)|Accuracy (not including noun classes)|
 |---------------------------------|---------------------------------|-------------------------------------|
-|[Du Toit & Puttkammer](https://www.mdpi.com/2078-2489/12/12/520)             | 74.3590%                        | 75.6410%                            |
+|[du Toit & Puttkammer](https://www.mdpi.com/2078-2489/12/12/520)             | 74.3590%                        | 75.6410%                            |
 |Ours                             | **82.0513%**                        | **87.1795%**                            |
 |[NLAPOST21 shared task winner](https://upjournals.up.ac.za/index.php/dhasa/article/view/3865), crf, comp sum, bigram | (does not attempt to tag noun classes)                        | 64.1026%                            |
 |[NLAPOST21 shared task winner](https://upjournals.up.ac.za/index.php/dhasa/article/view/3865), lstm, comp sum, bigram| (does not attempt to tag noun classes)                      | 60.2564%                            |
