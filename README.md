@@ -14,8 +14,8 @@ Best model (ours) is bolded:
 |---------------------------------|---------------------------------|-------------------------------------|
 |[Du Toit & Puttkammer](https://www.mdpi.com/2078-2489/12/12/520)             | 74.3590%                        | 75.6410%                            |
 |Ours                             | **82.0513%**                        | **87.1795%**                            |
-|[pos-nguni](https://upjournals.up.ac.za/index.php/dhasa/article/view/3865), crf, comp sum, bigram | (does not attempt to tag noun classes)                        | 64.1026%                            |
-|[pos-nguni](https://upjournals.up.ac.za/index.php/dhasa/article/view/3865), lstm, comp sum, bigram| (does not attempt to tag noun classes)                      | 60.2564%                            |
+|[NLAPOST21 shared task winner](https://upjournals.up.ac.za/index.php/dhasa/article/view/3865), crf, comp sum, bigram | (does not attempt to tag noun classes)                        | 64.1026%                            |
+|[NLAPOST21 shared task winner](https://upjournals.up.ac.za/index.php/dhasa/article/view/3865), lstm, comp sum, bigram| (does not attempt to tag noun classes)                      | 60.2564%                            |
 
 **NB:** It is very important to note that this is on words as they would appear in a dictionary, e.g. on [IsiXhosa.click](https://isixhosa.click). This means it is an 'unfair' comparison for these taggers, which are trained on a sentence level. These results do not mean that our tagger is better for _any_ usecase _other_ than dictionary entries formatted like ours are on IsiXhosa.click.
 
