@@ -29,3 +29,9 @@ This is mostly here for posterity + transparency and is released as-is.
 
 All code is licensed under Apache 2.0.
 Data retains its original licensing, and we merely redistribute it for convenience.
+
+
+## References (baselines)
+
+- du Toit, J. S., & Puttkammer, M. J. (2021). Developing Core Technologies for Resource-Scarce Nguni Languages. _Information, 12_(12), 520. https://doi.org/10.3390/info12120520 
+- Pannach, F., Meyer, F., Jembere, E., Dlamini, S. Z. (2022). NLAPOST2021 1st Shared Task on Part-of-Speech Tagging for Nguni Languages. _Journal of the Digital Humanities Association of Southern Africa, 3_(01). https://doi.org/10.55492/dhasa.v3i01.3865
