@@ -1,0 +1,79 @@
+Word;Human with corrections (gold);Du Toit & Puttkammer;pos-nguni, crf, comp sum, bigram;pos-nguni, lstm, comp sum, bigram;ours;ours with all
+cela;V;V;V;V;V;V
+chaphazela;V;V;V;V;V;V
+cimela;V;V;V;V;V;V
+gibisela;V;V;ADV;ADV;V;V
+goba;V;V;CONJ;CONJ;V;V
+guqa;V;V;V;N;V;V
+hlisa;V;V;V;V;V;V
+jikeleza;V;V;ADV;ADV;V;V
+khamisa;V;V;N;N;V;V
+khwela;V;V;V;V;V;V
+nitha;V;ADV;V;ADV;V;V
+nyusa;V;ADV;V;ADV;V;V
+phakamisa;V;V;ADV;ADV;V;V
+sasaza;V;POSS07;V;V;V;V
+tyhutyha;V;V;N;N;V;V
+ukuncipha emzimbeni;N15;V;N;N;N11;N14
+ukuphelelwa ( ngamandla );N15;V;ADV;POSS;N11;N11
+ukwehla emzimbeni;N15;V;POSS;N;N11;COP
+yehla;V;POSS09;POSS;POSS;V;POSS09
+amabala;N6;N06;N;N;V;N06
+iinzwane;N10;N10;N;N;N10;N10
+ilungu lobudoda;N5;N05;N;N;N05;COP
+ilungu lobufazi;N5;N05;N;N;N05;N09
+imfihlo;N9;N09;N;N;N09;N09
+imidlalo;N4;N04;N;N;N04;N04
+ingcali;N9;N09;N;N;N09;N09
+ingqondo;N9;N09;N;N;N09;N09
+iplanga;N5;V;N;N;N05;N09
+isikere;N7;N07;V;N;N07;N07
+isinqa;N7;N07;N;N;N07;N07
+izibhaxu;N8;N08;N;N;N08;N08
+ubuthathaka;N14;N14;N;N;N14;N14
+ubuwikhi;N14;N14;N;N;N14;N14
+ufuzo;N11;N11;N;N;N11;N11
+ukungacaceli ukutya;N15;V;N;V;N15;N15
+ukungomeleli;N15;V;V;V;N11;COP
+umbane;N3;N03;N;N;N03;N03
+umqamelo;N3;N03;N;N;N11;N03
+umqolo;N3;N03;N;N;N03;N03
+msinyane;ADV;ADV;ADV;ADV;N03;FOR
+phambili;ADV;ADV;ADV;ADV;N02;ADV
+olula;V;REL;REL;REL;V;REL
+khulula;V;V;ADV;ADV;V;V
+thoba;V;V;POSS;CONJ;V;V
+jinga;V;V;ADV;ADV;V;V
+guquka;V;V;V;V;V;V
+songa;V;POSS07;PRO;V;V;ADV
+dlulisa;V;V;N;N;V;V
+ncamathisela;V;V;V;V;V;V
+thunga;V;V;IDEO;ADV;V;V
+umtya;N3;N03;N;N;N03;N03
+xobula;V;V;N;N;V;ADV
+thamba;V;V;N;POSS;V;V
+gruzuka;V;V;V;ADV;V;V
+lolonga;V;POSS05;V;POSS;V;POSS05
+amaplanga;N6;N06;N;N;N06;N06
+iplanga;N5;V;N;N;N05;N09
+irhali;N5;N09;N;N;N10;N09
+umhlaza wegazi;N3;N03;REL;REL;N01;N03
+usuleleko;N11;N11;N;N;N11;N11
+udakada;N11;V;V;V;N15;N01a
+isibhaxa;N7;N07;N;N;N07;N07
+izibhaxu;N8;N08;N;N;N08;N08
+idlala;N5;V;V;V;N09;V
+amadlala;N6;N06;N;N;N06;N06
+isikhuni;N7;N07;N;N;N07;N07
+iseyilotayiphi;N7;COP;COP;N;N07;COP
+ikhadibhodi;N9;N09;N;N;N09;N09
+ubundindisholo;N14;N14;N;N;N14;N14
+umongo;N3;N03;N;N;N03;N03
+izinyanya;N8;N08;N;N;N08;N10
+nyangeka;V;V;ADV;ADV;V;V
+gabha;V;V;ADV;IDEO;V;V
+ukunqongophala;N15;N15;N;N;N15;N14
+isiyezi;N7;N07;COP;V;N07;N07
+inkantsi;N9;N09;N;N;N09;N09
+ukucandeka komlomo;N15;V;N;POSS;N11;N11
+ntlontlozela;V;ADV;ADV;ADV;V;V

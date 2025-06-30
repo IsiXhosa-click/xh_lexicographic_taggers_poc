@@ -1,0 +1,6 @@
+Model; Accuracy (including noun classes); Accuracy (not including noun classes);
+Du Toit & Puttkammer; 74.3590%; 75.6410%;
+ours; 83.3333%; 96.1538%;
+ours with all; 73.0769%; 84.6154%;
+pos-nguni, crf, comp sum, bigram; 19.2308%; 64.1026%;
+pos-nguni, lstm, comp sum, bigram; 14.1026%; 60.2564%;
